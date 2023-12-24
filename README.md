@@ -58,7 +58,7 @@ sudo dnf install pandoc texlive-collection-context
 
 #### Arch
 ```bash
-sudo pacman -S pandoc texlive-core
+sudo pacman -S pandoc texlive
 ```
 
 #### OSX
