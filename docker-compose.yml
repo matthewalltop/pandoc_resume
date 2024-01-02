@@ -1,13 +1,14 @@
-version: '2'
+version: '3'
 
 services:
 
   resume-make:
+    tty: true # For debugging
     build:
       context: .
       dockerfile: ./.docker/resume.dockerfile
     container_name: resume-make
-    entrypoint: /entrypoint.sh
     image: resume-make
     volumes:
       - .:/home/app/resume:z
+    command: sh -c "cd /home/app/resume && make pdf"
