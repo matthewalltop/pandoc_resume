@@ -2,8 +2,10 @@
 *.log
 *.pdf
 *.html
+resume.md
 resume.tex
 *.swo
 *.swp
 *.docx
 *.rtf
+

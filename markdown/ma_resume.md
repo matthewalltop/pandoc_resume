@@ -3,9 +3,8 @@ Matthew Alltop
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Experienced engineer with over 10 years experience
+>  developing and designing software solutions
 
 ----
 
@@ -17,16 +16,13 @@ Education
 
 American Honors, Phi Theta Kappa, Cum Laude
 
-2024
-:   **BSc, Computer Science**; WGU
-
 
 Experience
 ----------
 
 **Kodiak/Crowe** (July 2021 - Present)
 
-Led platform engineering team initially as lead engineer and later as platform architect. Directed initiatives across nine development teams and five product offerings to help organization scale software products using clean architecture and domain driven design.
+Led platform engineering team initially as lead engineer and later as platform architect. Directed initiatives across six development teams and five product offerings to help organization scale software products using clean architecture and domain driven design.
 
 * Guided platform engineering team in adoption of strong Agile development practices. This resulted in producing the highest performing team across the entire organization. This included adoption of test driven development, mob programming practices, and feature management to enable rapid delivery.
 
@@ -44,9 +40,6 @@ Led platform engineering team initially as lead engineer and later as platform a
 
 * Pioneered canary release practices to enable refactoring of poorly designed microservices to event-sourced microservices built with domain driven design & the CQRS pattern.
 
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **CloudScale** (February 2021-July 2021)
 Senior Software (Consultant)
@@ -140,58 +133,6 @@ Supported several package version migrations and adoption of new libraries.
 * Designed an application to generate customs documentation using Visual Basic and SQL. This application prevented overseas shipments from being seized, opened, and audited and provided documentation for foreign customs official to review for each shipment created in company's order system.
 
 * Developed scanner-integrated quality control systems for business continuity project using Visual Basic. System allowed users to maintain QC logs of thousands of shipments to clients around the globe and eventually was expanded to be used for manual kit-assembly process when the workload exceeded the capacity of the automated assembly line.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
 
 ----
 
