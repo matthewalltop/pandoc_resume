@@ -3,7 +3,7 @@ Matthew Alltop
 
 ----
 
->  Experienced engineer with over 10 years experience
+>  Experienced engineer & architect with over 10 years experience
 >  developing and designing software solutions
 
 ----
@@ -16,21 +16,27 @@ Education
 
 American Honors, Phi Theta Kappa, Cum Laude
 
+Certifications
+---------
+
+:  **Microsoft Certified: AZ-900 Azure Fundamentals** (2023)
+
 
 Experience
 ----------
 
-**Kodiak/Crowe** (July 2021 - Present)
+**Kodiak** (July 2021 - Present)
+Software Architect
 
 Led platform engineering team initially as lead engineer and later as platform architect. Directed initiatives across six development teams and five product offerings to help organization scale software products using clean architecture and domain driven design.
 
-* Guided platform engineering team in adoption of strong Agile development practices. This resulted in producing the highest performing team across the entire organization. This included adoption of test driven development, mob programming practices, and feature management to enable rapid delivery.
+* Guided platform engineering team in adoption of strong Agile development practices, including adoption of test driven development, mob programming practices, and feature management to enable rapid delivery. This resulted in producing the highest performing team across the entire organization.
 
 * Led effort to migrate microfrontend architecture from Single SPA to Module Federation - introduced asynchronous module loading and enabled dynamic registration of new applications onto platform. Improvements allowed greater testability of frontends, greater autonomy for development teams, and more rapid delivery of feature work.
 
 * Worked alongside enterprise architect to evangelize event sourcing, domain driven design, and CQRS to improve team autonomy, fault resiliency, and scalability across microservice architecture.
 
-* Maintained framework code for both microfrontend and microservice platforms. Introduced new features and improved existing features to improve developer experience.
+* Implemented and maintaned in-house event-sourcing framework to allow developers to rapidly adopt architectural patterns and practices. This framework was built using .NET Core, Cosmos Database, Kafka, and Azure Event Hub and allowed for rapid development of new microservices.
 
 * Heavily involved in DevOps practices and tooling. Introduced "shift-left" practices to improve code quality and time to market - examples of these include rolling code coverage checks, automated testing of pull requests, and code quality checks.
 
@@ -42,7 +48,7 @@ Led platform engineering team initially as lead engineer and later as platform a
 
 
 **CloudScale** (February 2021-July 2021)
-Senior Software (Consultant)
+Senior Software Engineer - Consultant
 
 Led development effort on several small-to-medium initiatives for Monster Beverage's accounting practices
 
@@ -58,16 +64,15 @@ Led development effort on several small-to-medium initiatives for Monster Bevera
 **Sallie Mae** (December 2018 - Febrary 2021)
 Senior Software Engineer
 
-Served as member of scrum team during organization's cloud migration efforts. TODO
+Served as Senior Engineer on student loan team, responsible for maintaining and improving the company's largest revenue-generating product.
 
+* Led migration of product from web forms to MVC framework; introduced N-Tier architecture, better service patterns, and cloud-based approaches to existing system.
 
-* Led migration of flagship product from web forms to MVC framework; introduced N-Tier architecture, better service patterns, and dependency injection.
+* Helped lead efforts to refactor the front-end of flagship product, moving from legacy ASCX markup to Bootstrap4 grid system and components.
 
-* Helped lead efforts to refactor the front-end of flagship application, moving from legacy markup to Bootstrap4 grid system and components.
+* Built RESTful APIs serving multiple internal and customer-facing applications that utilize numerous AWS resources such as API Gateway, CloudFront, Secrets Manager, S3, and Lambdas
 
-* Built RESTful API serving multiple internal and customer-facing applications that utilize numerous AWS resources such as API Gateway, CloudFront, Secrets Manager, S3, and Lambdas
-
-* Assisted in creation of internal ETL process that introduced new marketing opportunities. Utilized EF6 and AWS resources to process millions of records daily.
+* Assisted in creation of internal ETL process that introduced new marketing opportunities. Utilized Entity Framework 6 and AWS resources to process millions of records daily.
 
 * Contributed to the setup and maintenance of ADO CI/CD pipelines to facilitate company's Agile migration.
 
@@ -75,7 +80,7 @@ Served as member of scrum team during organization's cloud migration efforts. TO
 
 
 **E-gineering** (May 2018 - December 2018)
-Senior Software Engineer (Consultant)
+Senior Software Engineer - Consultant
 
 * Collaborated directly with pharmaceutical client to develop multi-account, study-tracking system on Azure using React, .NET Core, and SQL server.
 
@@ -86,7 +91,7 @@ Senior Software Engineer (Consultant)
 * Created in-house tools for consultancy, using Azure services and .NET Core, that allowed integration for Office 365 and Slack.
 
 **Infosys** (November 2017 - May 2018)
-Sr. Software Engineer - Contractor
+Senior Software Engineer - Contractor
 
 * Led a small team of three to develop a front-end visualization framework for major auto manufacturer.
 
@@ -118,11 +123,12 @@ Constantly refactored existing code to reduce overall cyclomatic complexity of c
 patterned, object-oriented solutions where appropriate and creating new unit tests.
 Supported several package version migrations and adoption of new libraries.
 
-**Covance** (Applications Developer) (March 2014 - June 2017)
+**Covance** (March 2014 - June 2017)
+Applications Developer
 
 * Worked closely with project management teams to develop an ASP.NET MVC application in the e-commerce style that allowed project managers to build studies using company's analyte offerings. This system integrated with the company's legacy MUMPS database and provided the user's a friendler web-based interface.
 
-*  Built reporting application for labratory using C# and WPF that allowed specimen management to generate reports on product stability across hundreds of storage locations throughout the central labratory.
+* Built reporting application for labratory using C# and WPF that allowed specimen management to generate reports on product stability across hundreds of storage locations throughout the central labratory.
 
 * Learned Angular to rewrite suite of old WebForms monitoring applications. This was part of a drive to do more application modernization and allowed us to more fully document and migrate legacy applications to newer OS versions and clean up old servers.
 
@@ -134,7 +140,23 @@ Supported several package version migrations and adoption of new libraries.
 
 * Developed scanner-integrated quality control systems for business continuity project using Visual Basic. System allowed users to maintain QC logs of thousands of shipments to clients around the globe and eventually was expanded to be used for manual kit-assembly process when the workload exceeded the capacity of the automated assembly line.
 
+Technical Experience
+--------------------
+
+Skills:
+: Distributed Microservices, Microfrontends, Domain Driven Design, Event Sourcing, CQRS, Clean Architecture, Azure, DevOps, Agile, TDD, .NET Core, Angular, React, Node, Typescript, Python, PowerShell, Docker, Kubernetes
+
+Programming Languages
+:   **C#:** I have worked in C# with .NET, .NET Framework, and .NET Core.
+
+:   **Typescript:** I have worked with Typescript in Node, Angular, and React. Most comfortable with Angular in 2024.
+
+:   I have also worked heavily with **Python** and **PowerShell**
+
+:   Familiar with **C++** and **Rust**
+
+
 ----
 
 > <balltop729@gmail.com> • +1 317 332 9076 • 32 years old\
-> 1127 Reid Pl - Indianapolis, Indiana
+> 1127 Reid Pl - Indianapolis, Indiana 46203
